@@ -2,9 +2,9 @@
   "author": "John Butler <johnnypez@gmail.com>",
   "name": "balance",
   "description": "A very simple load balancer based on http-proxy. Intended for testing apps in development.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
-    "url": ""
+    "url": "https://github.com/johnnypez/balance"
   },
   "main": "balance.js",
   "engines": {

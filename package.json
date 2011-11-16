@@ -1,0 +1,22 @@
+{
+  "author": "John Butler <johnnypez@gmail.com>",
+  "name": "balance",
+  "description": "A very simple load balancer based on http-proxy. Intended for testing apps in development.",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "main": "balance.js",
+  "engines": {
+    "node": "~0.4.3"
+  },
+  "dependencies": {
+    "http-proxy": "~0.7.6",
+    "commander": "~0.4.0",
+    "underscore": "~1.1.7"
+  },
+  "bin":{
+		"balance":"./bin/balance.js"
+	},
+  "devDependencies": {}
+}

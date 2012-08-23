@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/johnnypez/balance.png)](http://travis-ci.org/johnnypez/balance)
 #Balance
 
 This is a very very simple round-robin load balancer that I put together for testing apps in development.
